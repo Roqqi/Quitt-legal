@@ -8,7 +8,7 @@ Anbieter: Dennis Meilicke, RoqqiStudios
 
 ## § 1 Geltungsbereich
 
-(1) Diese Allgemeinen Geschäftsbedingungen gelten für die Nutzung der mobilen Applikation **„Quitt"** (nachfolgend „App"), angeboten von Dennis Meilicke, RoqqiStudios, Waldstr. 21, 15518 Steinhöfen (nachfolgend „Anbieter").
+(1) Diese Allgemeinen Geschäftsbedingungen gelten für die Nutzung der mobilen Applikation **„Quitt"** (nachfolgend „App"), angeboten von Dennis Meilicke, RoqqiStudios, Waldstr. 21, 15518 Steinhöfel (nachfolgend „Anbieter").
 
 (2) Die App richtet sich ausschließlich an **Unternehmer im Sinne des § 14 BGB** (Einzelunternehmer, Kleingewerbetreibende, Freiberufler). Die Nutzung durch Verbraucher im Sinne des § 13 BGB ist nicht vorgesehen.
 
@@ -23,16 +23,18 @@ Anbieter: Dennis Meilicke, RoqqiStudios
 (2) Die App wird in zwei Versionen angeboten:
 
 **Free-Version (kostenlos):**
-- Erstellung von bis zu 5 Rechnungen pro Monat
-- Verwaltung von bis zu 10 Artikeln
+- Erstellung von bis zu 3 Rechnungen pro Monat
+- Verwaltung von bis zu 5 Artikeln
 - Verwaltung von bis zu 10 Kunden
 - Einfaches Kassenbuch
 
 **Pro-Version (kostenpflichtig):**
 - Unbegrenzte Rechnungen, Artikel und Kunden
+- Unbegrenzte Daueraufträge
+- EÜR als PDF exportieren
 - CSV-Export für Steuerberater
-- Angebotserstellung
-- Mahnwesen
+- Angebotserstellung & versenden
+- Mahnwesen & Zahlungserinnerung
 - Priorisierter Support
 
 (3) Alle Daten werden **ausschließlich lokal auf dem Gerät des Nutzers** gespeichert. Der Anbieter stellt keine Cloud-Infrastruktur bereit und hat keinen Zugriff auf die gespeicherten Daten des Nutzers.

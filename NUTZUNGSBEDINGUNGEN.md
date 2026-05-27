@@ -2,7 +2,7 @@
 
 **Quitt – Rechnungs- und Kassenbuch-App**  
 Anbieter: Dennis Meilicke, RoqqiStudios  
-*Stand: 17. Mai 2026*
+*Stand: 27. Mai 2026*
 
 ---
 
@@ -20,6 +20,7 @@ Quitt ist eine mobile Anwendung für iOS und Android, die Einzelunternehmern, Kl
 - Einen Kunden- und Artikelstamm zu verwalten
 - Ein einfaches Kassenbuch zu führen
 - Einnahmen und Ausgaben zu dokumentieren
+- Daten optional geräteübergreifend per Cloud zu synchronisieren
 
 ---
 
@@ -41,16 +42,16 @@ Dennis Meilicke / RoqqiStudios gewährt Ihnen eine beschränkte, nicht-exklusive
 Quitt ist ein Werkzeug — **kein Steuerberater**. Sie sind selbst verantwortlich dafür, dass Ihre Rechnungen den gesetzlichen Anforderungen entsprechen (§ 14 UStG, GoBD). Wir empfehlen ausdrücklich, einen Steuerberater hinzuzuziehen.
 
 ### 4.2 Datensicherung
-Alle Daten werden lokal auf Ihrem Gerät gespeichert. Sie sind selbst für regelmäßige Backups verantwortlich. Der Anbieter kann keine Daten wiederherstellen.
+Nutzer **ohne Konto** sind für die Sicherung ihrer lokal gespeicherten Daten selbst verantwortlich (z.B. über iCloud- oder Google-Gerätesicherungen). Der Anbieter kann lokal gespeicherte Daten nicht wiederherstellen. Nutzer **mit Konto** profitieren von automatischer Cloud-Sicherung; der Anbieter übernimmt jedoch keine Garantie für die vollständige Verfügbarkeit der Cloud-Dienste.
 
-### 4.3 Kundendaten
-Bei der Eingabe von Kundendaten sind Sie selbst für die Einhaltung der DSGVO gegenüber Ihren Kunden verantwortlich (Art. 13, 14 DSGVO — Informationspflichten).
+### 4.3 Kundendaten und DSGVO
+Bei der Eingabe von Kundendaten sind Sie selbst für die Einhaltung der DSGVO gegenüber Ihren Kunden verantwortlich (Art. 13, 14 DSGVO). Wenn Sie die Cloud-Sync-Funktion nutzen, übermitteln Sie personenbezogene Daten Ihrer Kunden an unseren Auftragsverarbeiter (Supabase). Stellen Sie sicher, dass Sie Ihre Kunden hierüber informiert haben.
 
 ---
 
 ## 5. Verfügbarkeit
 
-Der Anbieter bemüht sich um eine hohe Verfügbarkeit der App, übernimmt jedoch keine Garantie für ununterbrochene Verfügbarkeit. Updates können die Funktionalität vorübergehend beeinflussen.
+Der Anbieter bemüht sich um eine hohe Verfügbarkeit der App und des Cloud-Dienstes, übernimmt jedoch keine Garantie für ununterbrochene Verfügbarkeit. Updates und Wartungsarbeiten können die Funktionalität vorübergehend beeinflussen.
 
 ---
 
@@ -76,15 +77,15 @@ Im Verhältnis zwischen Apple Inc. und dem Endnutzer ist Apple nicht verantwortl
 Dennis Meilicke  
 RoqqiStudios  
 Waldstr. 21  
-15518 Steinhöfen  
+15518 Steinhöfel  
 E-Mail: RoqqiStudios@proton.me
 
 ---
 
 ## 9. Änderungen
 
-Diese Nutzungsbedingungen können aktualisiert werden. Die aktuelle Version ist stets unter dieser URL abrufbar. Wesentliche Änderungen werden durch einen Hinweis in der App kommuniziert.
+Diese Nutzungsbedingungen können aktualisiert werden. Die aktuelle Version ist stets in diesem Repository abrufbar. Wesentliche Änderungen werden durch einen Hinweis in der App kommuniziert.
 
 ---
 
-*Stand: 17. Mai 2026*
+*Stand: 27. Mai 2026*

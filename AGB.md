@@ -2,7 +2,7 @@
 
 **Quitt – Rechnungs- und Kassenbuch-App**  
 Anbieter: Dennis Meilicke, RoqqiStudios  
-*Stand: 17. Mai 2026*
+*Stand: 27. Mai 2026*
 
 ---
 
@@ -37,7 +37,10 @@ Anbieter: Dennis Meilicke, RoqqiStudios
 - Mahnwesen & Zahlungserinnerung
 - Priorisierter Support
 
-(3) Alle Daten werden **ausschließlich lokal auf dem Gerät des Nutzers** gespeichert. Der Anbieter stellt keine Cloud-Infrastruktur bereit und hat keinen Zugriff auf die gespeicherten Daten des Nutzers.
+(3) Die App kann wahlweise **ohne Konto (lokal)** oder **mit Konto (Cloud-Sync)** genutzt werden:
+
+- **Ohne Konto:** Alle Daten werden ausschließlich lokal auf dem Gerät des Nutzers gespeichert. Der Anbieter hat keinen Zugriff auf diese Daten.
+- **Mit Konto:** Der Nutzer kann sich mit Apple Sign-In oder Google Sign-In registrieren. In diesem Fall werden Betriebs- und Rechnungsdaten zur geräteübergreifenden Synchronisation auf Servern von Supabase Inc. (Rechenzentrum: AWS eu-central-1, Frankfurt, Deutschland) gespeichert. Gewerbedaten (Firmenname, Steuernummer, Bankverbindung, Logo) verbleiben stets ausschließlich lokal auf dem Gerät.
 
 (4) Ein Anspruch auf bestimmte Funktionen oder eine bestimmte Verfügbarkeit der App besteht nicht. Der Anbieter behält sich vor, den Funktionsumfang jederzeit zu ändern, zu erweitern oder einzuschränken.
 
@@ -59,9 +62,9 @@ Anbieter: Dennis Meilicke, RoqqiStudios
 
 (2) Der Nutzer ist verpflichtet, die App nicht für rechtswidrige Zwecke zu nutzen.
 
-(3) Der Nutzer ist für die **Datensicherung** seiner in der App gespeicherten Daten selbst verantwortlich. Der Anbieter übernimmt keine Haftung für Datenverluste, die durch Geräteverlust, -defekt, Deinstallation oder andere Ereignisse entstehen.
+(3) Nutzer **ohne Konto** sind für die Datensicherung ihrer lokal gespeicherten Daten selbst verantwortlich. Der Anbieter übernimmt keine Haftung für Datenverluste, die durch Geräteverlust, -defekt, Deinstallation oder andere Ereignisse entstehen. Nutzer **mit Konto** profitieren von automatischer Cloud-Sicherung; der Anbieter haftet jedoch nicht für den Verlust von Cloud-Daten infolge von Störungen bei Drittanbietern (insbesondere Supabase Inc.).
 
-(4) Der Nutzer stellt sicher, dass er bei der Eingabe von Kundendaten in die App die datenschutzrechtlichen Bestimmungen (insbesondere DSGVO) gegenüber seinen eigenen Kunden einhält.
+(4) Der Nutzer stellt sicher, dass er bei der Eingabe von Kundendaten in die App die datenschutzrechtlichen Bestimmungen (insbesondere DSGVO) gegenüber seinen eigenen Kunden einhält. Soweit der Nutzer die Cloud-Sync-Funktion nutzt, ist er insbesondere verpflichtet, seine Kunden gemäß Art. 13, 14 DSGVO über die Verarbeitung ihrer Daten zu informieren.
 
 ---
 
@@ -107,7 +110,7 @@ Unabhängig davon können Rückerstattungsanfragen für In-App-Käufe direkt üb
 
 (4) Quitt ist ein Hilfsmittel zur Rechnungserstellung und kein Ersatz für eine professionelle Buchführungssoftware oder steuerliche Beratung. Der Nutzer wird ausdrücklich darauf hingewiesen, einen Steuerberater hinzuzuziehen.
 
-(5) Eine Haftung für Datenverluste ist auf den typischen Wiederherstellungsaufwand beschränkt, der auch bei regelmäßiger Datensicherung entstanden wäre.
+(5) Eine Haftung für Datenverluste ist auf den typischen Wiederherstellungsaufwand beschränkt, der auch bei regelmäßiger Datensicherung entstanden wäre. Für den Verlust von Cloud-Daten infolge von Störungen beim Auftragsverarbeiter (Supabase Inc.) ist die Haftung des Anbieters ausgeschlossen, soweit der Anbieter die Störung nicht zu vertreten hat.
 
 ---
 
@@ -129,6 +132,8 @@ Unabhängig davon können Rückerstattungsanfragen für In-App-Käufe direkt üb
 
 (3) Der Anbieter behält sich vor, den Dienst mit angemessener Vorankündigungsfrist (mindestens 30 Tage) einzustellen.
 
+(4) Bei Kontolöschung werden alle auf den Servern des Anbieters gespeicherten Daten des Nutzers unwiderruflich gelöscht. Lokal auf dem Gerät gespeicherte Daten bleiben davon unberührt.
+
 ---
 
 ## § 11 Änderungen der AGB
@@ -143,11 +148,11 @@ Unabhängig davon können Rückerstattungsanfragen für In-App-Käufe direkt üb
 
 (1) Es gilt das Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts.
 
-(2) Erfüllungsort und Gerichtsstand ist, soweit gesetzlich zulässig, Steinhöfen.
+(2) Erfüllungsort und Gerichtsstand ist, soweit gesetzlich zulässig, Steinhöfel.
 
 (3) Sollten einzelne Bestimmungen dieser AGB unwirksam sein, bleibt die Wirksamkeit der übrigen Bestimmungen unberührt.
 
 ---
 
-*Stand: 17. Mai 2026*  
+*Stand: 27. Mai 2026*  
 *Dennis Meilicke | RoqqiStudios | RoqqiStudios@proton.me*

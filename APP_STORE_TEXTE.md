@@ -36,7 +36,7 @@ DEIN KASSENBUCH, ENDLICH EINFACH
 • CSV-Export für den Steuerberater (Pro)
 
 DEINE DATEN GEHÖREN DIR
-Quitt speichert alle Daten ausschließlich lokal auf deinem Gerät. Kein Cloud-Zwang, kein Abo für die Grundfunktionen, keine versteckten Kosten. Deine Rechnungen bleiben deine Rechnungen.
+Quitt speichert deine Daten standardmäßig lokal auf deinem Gerät – ganz ohne Konto. Wer möchte, kann sich anmelden und seine Daten verschlüsselt über die Cloud (EU-Server) auf mehreren Geräten synchronisieren. Kein Cloud-Zwang, kein Abo für die Grundfunktionen, keine versteckten Kosten. Deine Rechnungen bleiben deine Rechnungen.
 
 FÜR WEN IST QUITT?
 → Handwerker und Hausmeisterservices
@@ -47,7 +47,7 @@ FÜR WEN IST QUITT?
 → Alle die Word-Rechnungen satt haben
 
 PRO-VERSION
-Für alle die mehr wollen: Unbegrenzte Rechnungen, Artikel und Kunden, Angebotserstellung, Mahnwesen und CSV-Export für den Steuerberater – ab € 4,99/Monat oder einmalig € 49,99.
+Für alle die mehr wollen: Unbegrenzte Rechnungen, Artikel und Kunden, unbegrenzte Daueraufträge, EÜR-Export als PDF, Angebotserstellung, Mahnwesen und CSV-Export für den Steuerberater – ab € 4,99/Monat oder einmalig € 44,99.
 
 Quitt. Rechnung raus. Erledigt. Weiter.
 ```
@@ -108,13 +108,15 @@ KASSENBUCH OHNE CHAOS
 Dokumentiere Einnahmen und Ausgaben direkt in der App. Foto vom Beleg machen, Betrag eingeben – fertig. Der Monatsüberblick zeigt sofort, wie der Laden läuft.
 
 DEINE DATEN – DEIN GERÄT
-Quitt speichert alles lokal. Kein Konto nötig, keine Cloud, kein Abo für die Basis-Funktionen. Null Zugriff von außen auf deine Geschäftsdaten.
+Quitt speichert standardmäßig alles lokal – kein Konto nötig, kein Abo für die Basis-Funktionen. Auf Wunsch synchronisierst du deine Daten verschlüsselt über die Cloud (EU-Server) auf all deinen Geräten. Du entscheidest.
 
 FÜR WEN?
 Handwerker · Fotografen · Flohmarkthändler · Reinigungskräfte · Coaches · Freelancer · Alle mit Kleingewerbe
 
-PRO-VERSION: Ab € 4,99/Monat
-→ Unbegrenzte Rechnungen und Kunden
+PRO-VERSION: Ab € 4,99/Monat (oder einmalig € 44,99)
+→ Unbegrenzte Rechnungen, Artikel und Kunden
+→ Unbegrenzte Daueraufträge
+→ EÜR-Export als PDF
 → Angebote erstellen
 → Mahnwesen
 → CSV-Export für den Steuerberater

@@ -129,6 +129,27 @@ Quitt erlaubt Konto-Erstellung (Apple/Google-Login) → Google verlangt zwingend
 
 ---
 
+## 4a. App-Review-Hinweis: Account-Löschung finden
+
+Die Konto-Löschung ist **nur nach Login sichtbar** (lokale Nutzer haben kein Konto).
+Damit der Prüfer sie findet, diesen Hinweis in die Review-Notizen eintragen
+(Play Console: „App-Inhalte → App-Zugriff" / App Store Connect: „App Review Information → Notes"):
+
+**Deutsch**
+```
+Konto-Löschung: Mit Apple oder Google anmelden → Tab „Profil/Einstellungen“ → Abschnitt „KONTO & SYNC“ → „Account löschen“. Löscht den Account und alle zugehörigen Cloud-Daten unwiderruflich. Ohne Konto nutzt die App nur lokalen Speicher (kein Account, daher keine Löschoption nötig).
+```
+
+**English**
+```
+Account deletion: Sign in with Apple or Google → "Profile/Settings" tab → "KONTO & SYNC" section → "Account löschen" (Delete account). This permanently deletes the account and all associated cloud data. Without an account the app stores data locally only (no account, so no deletion option is needed).
+```
+
+> Falls für IAP-Tests ein Demo-Zugang verlangt wird: ein Apple/Google-Testkonto
+> bereithalten oder den lokalen Modus („Ohne Konto fortfahren") als Review-Weg angeben.
+
+---
+
 ## 5. Pflicht-Checkliste vor Einreichung
 - [ ] AAB gebaut: `eas build --platform android --profile production`
 - [ ] In-App-Produkte angelegt (`.monthly`, `.annual`, `.lifetime` – siehe Code `PremiumContext.tsx`)

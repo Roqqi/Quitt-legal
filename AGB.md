@@ -8,7 +8,7 @@ Anbieter: Dennis Meilicke, RoqqiStudios
 
 ## § 1 Geltungsbereich
 
-(1) Diese Allgemeinen Geschäftsbedingungen gelten für die Nutzung der mobilen Applikation **„Quitt"** (nachfolgend „App"), angeboten von Dennis Meilicke, RoqqiStudios, Waldstr. 21, 15518 Steinhöfen (nachfolgend „Anbieter").
+(1) Diese Allgemeinen Geschäftsbedingungen gelten für die Nutzung der mobilen Applikation **„Quitt"** (nachfolgend „App"), angeboten von Dennis Meilicke, RoqqiStudios, Waldstr. 21, 15518 Steinhöfel (nachfolgend „Anbieter").
 
 (2) Die App richtet sich ausschließlich an **Unternehmer im Sinne des § 14 BGB** (Einzelunternehmer, Kleingewerbetreibende, Freiberufler). Die Nutzung durch Verbraucher im Sinne des § 13 BGB ist nicht vorgesehen.
 
@@ -141,7 +141,7 @@ Unabhängig davon können Rückerstattungsanfragen für In-App-Käufe direkt üb
 
 (1) Es gilt das Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts.
 
-(2) Erfüllungsort und Gerichtsstand ist, soweit gesetzlich zulässig, Steinhöfen.
+(2) Erfüllungsort und Gerichtsstand ist, soweit gesetzlich zulässig, Steinhöfel.
 
 (3) Sollten einzelne Bestimmungen dieser AGB unwirksam sein, bleibt die Wirksamkeit der übrigen Bestimmungen unberührt.
 

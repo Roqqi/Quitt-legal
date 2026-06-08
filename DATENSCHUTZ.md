@@ -9,7 +9,7 @@ Verantwortlicher im Sinne der Datenschutz-Grundverordnung (DSGVO) ist:
 **Dennis Meilicke**  
 RoqqiStudios  
 Waldstr. 21  
-15518 Steinhöfen  
+15518 Steinhöfel  
 Deutschland
 
 E-Mail: RoqqiStudios@proton.me

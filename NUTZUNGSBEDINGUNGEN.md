@@ -76,7 +76,7 @@ Im Verhältnis zwischen Apple Inc. und dem Endnutzer ist Apple nicht verantwortl
 Dennis Meilicke  
 RoqqiStudios  
 Waldstr. 21  
-15518 Steinhöfen  
+15518 Steinhöfel  
 E-Mail: RoqqiStudios@proton.me
 
 ---

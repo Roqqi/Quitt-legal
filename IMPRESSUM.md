@@ -5,7 +5,7 @@
 **Dennis Meilicke**  
 RoqqiStudios  
 Waldstr. 21  
-15518 Steinhöfen  
+15518 Steinhöfel  
 Deutschland
 
 ## Kontakt
@@ -21,7 +21,7 @@ Steuerlich geführt beim Finanzamt [DEIN FINANZAMT] unter der Steuernummer [STEU
 
 Dennis Meilicke  
 Waldstr. 21  
-15518 Steinhöfen
+15518 Steinhöfel
 
 ## Streitschlichtung
 

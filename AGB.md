@@ -23,17 +23,19 @@ Anbieter: Dennis Meilicke, RoqqiStudios
 (2) Die App wird in zwei Versionen angeboten:
 
 **Free-Version (kostenlos):**
-- Erstellung von bis zu 5 Rechnungen pro Monat
+- Erstellung von bis zu 3 Rechnungen pro Monat
+- Verwaltung von bis zu 5 Kunden
 - Verwaltung von bis zu 10 Artikeln
-- Verwaltung von bis zu 10 Kunden
+- 1 Dauerauftrag
 - Einfaches Kassenbuch
 
 **Pro-Version (kostenpflichtig):**
 - Unbegrenzte Rechnungen, Artikel und Kunden
+- Unbegrenzte Daueraufträge
+- EÜR-Export als PDF
 - CSV-Export für Steuerberater
 - Angebotserstellung
-- Mahnwesen
-- Priorisierter Support
+- Mahnwesen & Zahlungserinnerungen
 
 (3) Alle Daten werden standardmäßig **lokal auf dem Gerät des Nutzers** gespeichert. Optional kann der Nutzer ein Konto erstellen, um Daten über eine verschlüsselte Cloud-Infrastruktur (Supabase, EU-Server) geräteübergreifend zu synchronisieren. Ohne Konto findet keine Übertragung an externe Server statt.
 
